@@ -1,8 +1,8 @@
 # WaveShield
 
-## This script need ESX Framework
+#### This script need ESX Framework
 
-## How to start this resource ?
+#### How to start this resource ?
    - Add this line to server.cfg `* ensure WaveShield`
 
 Preview: None

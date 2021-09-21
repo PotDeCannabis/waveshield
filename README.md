@@ -3,7 +3,7 @@
 This script need ESX Framework
 
 How to start this resource ?
-   - Add this line to server.cfg _ensure WaveShield_
+   - Add this line to server.cfg __ensure WaveShield__
 
 Preview: None
 

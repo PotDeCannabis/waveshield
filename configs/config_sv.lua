@@ -9,7 +9,7 @@ ConfigACS.ExplosionLogWebhook = "https://discord.com/api/webhooks/" -- Webhook e
 ConfigACS.LogBanWebhook = "https://discord.com/api/webhooks/" -- Webhook Ban
 ConfigACS.AntiVPNWebhook = "https://discord.com/api/webhooks/" -- Webhook AntiVPN
 
-ConfigACS.ServerName = "YelSRP" -- Nom du serveur
+ConfigACS.ServerName = "Ton-Serveur" -- Nom du serveur
 
 ConfigACS.Version = "v1.6.4" -- Ne pas Toucher
 
